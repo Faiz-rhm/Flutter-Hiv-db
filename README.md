@@ -1,10 +1,21 @@
-# flutter_hiv
+# Flutter-Hiv-DB
 
-A new Flutter project.
+This project is built to show how to use [HIV](https://riverpod.dev/) for locally storing data.
 
-## Getting Started
+## Development Setup
 
-This project is a starting point for a Flutter application.
+Clone the repository and run the following commands:
+
+```sh
+flutter pub get
+flutter run
+```
+
+## Created & Maintained By
+
+- [Instagram](https://www.instagram.com/faiz.rhm)
+- [Youtube Channel](https://www.youtube.com/channel/UCM1OzZsZ5FQIg01vdKGAw7g)
+- [Twitter](https://twitter.com/faiz_rhm)
 
 A few resources to get you started if this is your first Flutter project:
 
